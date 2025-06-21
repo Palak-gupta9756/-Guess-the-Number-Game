@@ -3,7 +3,7 @@
 A simple browser-based "Guess the Number" game built with HTML, CSS, and JavaScript.  
 The computer randomly picks a number between 1 and 100. Your goal? Guess it in as few tries as possible!
 
- 🕹️ How to Play
+# 🕹️ How to Play
 
 1. Enter a number between 1 and 100 in the input box.
 2. Click the Submit button.
@@ -13,7 +13,7 @@ The computer randomly picks a number between 1 and 100. Your goal? Guess it in a
    - 🔽 Too high – Try a lower number.
 4. Click Reset to play again.
 
-💡 Features
+# 💡 Features
 
 - Random number generation
 - Real-time feedback on guesses
@@ -21,7 +21,7 @@ The computer randomly picks a number between 1 and 100. Your goal? Guess it in a
 - Play-again/reset functionality
 - Simple and responsive design
 
-  🛠️ Tech Stack
+#  🛠️ Tech Stack
 
 - ✅ HTML5
 - 🎨 CSS3
